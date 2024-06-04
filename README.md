@@ -4,6 +4,8 @@
 
 I am a passionate and experienced Frontend Developer with a specialization in React. With a career starting in 2018, I have developed a strong foundation in frontend technologies and have worked on various projects to enhance application performance and integrations.
 
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 ## Skills
 
 - **Languages**: JavaScript, TypeScript, HTML, CSS
@@ -29,7 +31,7 @@ Feel free to connect with me on social media or via email:
 
 - **Email**: [quiknathan7@gmail.com](mailto:quiknathan7@gmail.com)
 - **LinkedIn**: [Nathan das Chagas Santos](https://www.linkedin.com/in/nathan-das-chagas-santos-862179185/)
-- **Instagram**: [@your_instagram_handle](https://instagram.com/nathanslaine)
+- **Instagram**: [@nathanslaine](https://instagram.com/nathanslaine)
 - **Facebook**: [Your Facebook Profile](https://facebook.com/nathan.chagassantos.3)
 
 ---
